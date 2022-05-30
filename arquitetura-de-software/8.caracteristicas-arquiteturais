@@ -1,0 +1,16 @@
+# Características Arquiteturais
+
+- [Operacionais](#operacionais)
+- Estruturais
+- Cross-Cutting
+
+## Operacionais
+
+- Disponibilidade: pensar na disponibilidade antes do projeto, observabilidade, tempo de indisponibilidade por ano...
+- Recuperação de desastres: como fazer para recuperar um sistema fora do ar, processos
+- Performance: latência e capacidade de receber requisições
+- Reuperação (backup): testar o backup
+- Confiabilidade e segurança: push force, criar contas fakes no sistema, afeta disponibilidade do site
+- Robustez
+- Escalabilidade
+
